@@ -14,6 +14,6 @@
 - [x] Organizar o HTML5 e o CSS3 com a arquitetura Atomic Design e B.E.M;
 
 <h3 align="center" font-weight="bold">REFERÊNCIAS</h3>
-<p>ARAUJO, JESSICA. Atomic Design: o que é, como surgiu e sua importância para a criação do Design System. Medium. Disponível em: <https://medium.com/pretux/atomic-design-o-que-%C3%A9-como-surgiu-e-sua-import%C3%A2ncia-para-a-cria%C3%A7%C3%A3o-do-design-system-e3ac7b5aca2c> <br>Acesso em 31 de Maio de 2022</p>
+<p>ARAUJO, JESSICA. Atomic Design: o que é, como surgiu e sua importância para a criação do Design System. Medium. Disponível em: |https://medium.com/pretux/atomic-design-o-que-%C3%A9-como-surgiu-e-sua-import%C3%A2ncia-para-a-cria%C3%A7%C3%A3o-do-design-system-e3ac7b5aca2c|. <br>Acesso em 31 de Maio de 2022</p>
 
-<p>SIMÕES, N. Arquitetura CSS usando BEM. iMasters. Disponível em: <https://imasters.com.br/css/arquitetura-css-usando-bem-parte-02> <br>Acesso em 31 de Maio de 2022</p>
+<p>SIMÕES, N. Arquitetura CSS usando BEM. iMasters. Disponível em: |https://imasters.com.br/css/arquitetura-css-usando-bem-parte-02|. <br>Acesso em 31 de Maio de 2022</p>
